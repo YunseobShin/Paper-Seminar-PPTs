@@ -1,4 +1,5 @@
 # Paper-Seminar-PPTs
+0. node2vec: Scalable Feature Learning for Networks (KDD 2016)
 1. Balancing information exposure in social networks (NIPS 2017)
 2. Learning Graph Representations with Embedding Propagation (NIPS 2017)
 3. Watch Your Step: Learning Graph Embedding Through Attention (ArXiv)
