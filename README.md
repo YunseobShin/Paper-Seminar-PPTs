@@ -8,3 +8,4 @@
 7. Semi-supervised Classification with Graph Convolutional Networks (ICLR 2017)
 8. Graph Attention Networks (ICLR 2018)
 9. PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks (ICLR 2019)
+10. Generating Wikipedia by Summarizing Long Sequences (ICLR 2018)
