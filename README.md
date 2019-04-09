@@ -1,6 +1,6 @@
 # Paper-Seminar-PPTs
 
-All meterials are English
+All meterials are written in English
 
 0. node2vec: Scalable Feature Learning for Networks (KDD 2016)
 1. Balancing information exposure in social networks (NIPS 2017)
