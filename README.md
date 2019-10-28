@@ -13,3 +13,6 @@ All meterials are written in English
 8. Graph Attention Networks (ICLR 2018)
 9. PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks (ICLR 2019)
 10. Generating Wikipedia by Summarizing Long Sequences (ICLR 2018)
+11. Large Scale Semantic Indexing with Deep Level-wise Extreme Multi-label Learning (WWW 2019)
+12. Learning to Model the Tail (NIPS 2017)
+13. Multi-Label Image Recognition with Graph Convolutional Networks (CVPR 2019)
